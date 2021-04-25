@@ -41,7 +41,7 @@
 16. `part1b-question16.js`
 17. `[2,4,6]`. The function call at line 13 calls `modifyArray`, which creates a new array and on each element in the passed in array, `doSomethihng` is called on them and returns double the value, and adds it into the created array. After the for loop, the array is returned. It's essentailly multiplying each value by 2 of `[1,2,3]`.
 18. `part1b-question18.js`
-19. ` javascript
+19. ``` javascript
     1 
     4
     3
